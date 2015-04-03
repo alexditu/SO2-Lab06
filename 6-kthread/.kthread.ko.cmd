@@ -1,0 +1,1 @@
+cmd_/home/student/so2/lab06-tasks/6-kthread/kthread.ko := ld -r -m elf_i386 -T /home/student/so2/linux-3.13/scripts/module-common.lds --build-id  -o /home/student/so2/lab06-tasks/6-kthread/kthread.ko /home/student/so2/lab06-tasks/6-kthread/kthread.o /home/student/so2/lab06-tasks/6-kthread/kthread.mod.o
